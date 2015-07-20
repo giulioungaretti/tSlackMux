@@ -22,3 +22,5 @@ _testmain.go
 *.exe
 *.test
 *.prof
+# do not leak the token
+./config.json
